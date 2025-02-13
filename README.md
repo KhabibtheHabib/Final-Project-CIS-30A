@@ -9,9 +9,13 @@ Below is an example of the running program and output files -
 
 How the program looks like:
 
+![Xnip2025-02-13_04-22-24](https://github.com/user-attachments/assets/14f608f4-190a-4f50-840c-66245f5b7042)
+
 (program_image.jpg)
 
 How the output file (order_summary.txt) should look like:
+
+![Xnip2025-02-13_04-22-41](https://github.com/user-attachments/assets/3784b29e-50b8-4c41-bf97-1268398ea8a6)
 
 (order_output.jpg)
 
