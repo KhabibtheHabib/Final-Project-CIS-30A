@@ -9,7 +9,7 @@ Below is an example of the running program and output files -
 
 How the program looks like:
 
-![Xnip2025-02-13_04-22-24](https://github.com/user-attachments/assets/14f608f4-190a-4f50-840c-66245f5b7042)
+<img src="![Xnip2025-02-13_04-22-24](https://github.com/user-attachments/assets/14f608f4-190a-4f50-840c-66245f5b7042)" width="400" alt="Description"> 
 
 (program_image.jpg)
 
