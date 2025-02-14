@@ -9,14 +9,10 @@ Below is an example of the running program and output files -
 
 How the program looks like:
 
-![Xnip2025-02-13_04-22-24](https://github.com/user-attachments/assets/14f608f4-190a-4f50-840c-66245f5b7042)
-
-(program_image.jpg)
+![Xnip2025-02-13_20-03-53](https://github.com/user-attachments/assets/f61666c1-d853-4243-aa4e-7b3efdde731a)
 
 How the output file (order_summary.txt) should look like:
 
-![Xnip2025-02-13_04-22-41](https://github.com/user-attachments/assets/3784b29e-50b8-4c41-bf97-1268398ea8a6)
-
-(order_output.jpg)
+![Xnip2025-02-13_20-04-12](https://github.com/user-attachments/assets/caa33e7c-3406-411f-bc4a-b50b3fd54538)
 
 ❤️ Thank you so much for this amazing semester
