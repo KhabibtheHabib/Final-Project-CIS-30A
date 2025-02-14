@@ -3,7 +3,17 @@ Final Project CIS-30A - Arif Rahman
 
 ## Option 1: Business Python Program
 
-In this repo you will find relevant documentation, code and images of my final project for this class. To run and use this project, first download the files, main_final.py & pizza_order.py. Using your editor of choice, in that terminal make sure you are in the directory that the previosuly mentioned files exist, and run the command python main_program.py. If all dependencies are installed, a window with the running program should show.
+### Setup
+To run and use this project, first download the files, main_final.py & pizza_order.py. Using your editor of choice, in that terminal make sure you are in the directory that the previosuly mentioned files exist, and run the command python main_program.py. If all dependencies are installed, a window with the running program should show.
+
+### Technoligies Used
+
+Python
+Tkinter
+TkCalendar 
+
+### General Info
+In this repo you will find relevant documentation, code and images of my final project for this class. 
 
 Below is an example of the running program and output files - 
 
